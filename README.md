@@ -25,6 +25,18 @@ Two feature sets were compared:
 
 - **Version A:** Lagged process measurements only
 - **Version B:** Process measurements + previous butane measurements
+## Data Source
+
+The dataset consists of real industrial debutanizer process data and is
+widely used in process-control research.
+
+The dataset version is listed on Rui Araújo's datasets page and contains
+7 process inputs, 2393 samples, and butane concentration as the output.
+
+**Source:** Rui Araújo — Process Control Datasets  
+https://home.isr.uc.pt/~rui/publications/datasets.html
+
+The dataset is associated with work by Fortuna et al.
 
 ## Results
 
