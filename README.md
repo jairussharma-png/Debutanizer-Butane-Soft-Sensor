@@ -19,7 +19,6 @@ The objective is to estimate butane concentration from these faster measurements
 - Ridge Regression, Random Forest and XGBoost
 - Hyperparameter tuning with GridSearchCV
 - Evaluation using R², RMSE and MAE
-- Permutation-based variable importance
 
 Two feature sets were compared:
 
